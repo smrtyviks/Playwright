@@ -6,6 +6,8 @@ on:
     - Tests
   pull_request:
     branches: [ main, master ]
+    paths:
+    - Tests
 jobs:
   test:
     timeout-minutes: 60
