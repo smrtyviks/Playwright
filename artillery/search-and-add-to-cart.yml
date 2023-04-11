@@ -1,35 +1,26 @@
 config:
-  target: "https://example.com/api"
+  target: "https://d16m5wbro86fg2.cloudfront.net"
   phases:
     - duration: 60
-      arrivalRate: 5
+      arrivalRate: 1
       name: Warm up
     - duration: 120
-      arrivalRate: 5
-      rampTo: 50
-      name: Ramp up load
-    - duration: 600
       arrivalRate: 50
+      rampTo: 150
+      name: Ramp up load
+    - duration: 180
+      arrivalRate: 150
       name: Sustained load
-  payload:
-    path: "./keywords.csv"
-    fields:
-      - "keyword"
 
 scenarios:
-  - name: "Search and buy"
+  - name: "Get LEGO Sets"
     flow:
-      - post:
-          url: "/search"
-          json:
-            kw: "{{ keyword }}"
-          capture:
-            - json: "$.results[0].id"
-              as: "productId"
       - get:
-          url: "/product/{{ productId }}/details"
-      - think: 5
-      - post:
-          url: "/cart"
-          json:
-            productId: "{{ productId }}"
+          url: "//api/sets"
+          capture:
+            - json: "$.LEGOsets"
+              as: LEGOsets
+          expect:
+            - statusCode: 200
+            - contentType: json
+            - hasProperty: Sets

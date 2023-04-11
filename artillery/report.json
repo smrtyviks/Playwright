@@ -1,0 +1,1903 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.Get LEGO Sets": 39060,
+      "vusers.created": 39060,
+      "http.requests": 39060,
+      "http.codes.404": 39060,
+      "http.responses": 39060,
+      "errors.Failed capture or match": 39060,
+      "vusers.failed": 39060
+    },
+    "rates": {
+      "http.request_rate": 129
+    },
+    "firstCounterAt": 1681225937531,
+    "firstHistogramAt": 1681225937999,
+    "lastCounterAt": 1681226297437,
+    "lastHistogramAt": 1681226297436,
+    "firstMetricAt": 1681225937531,
+    "lastMetricAt": 1681226297437,
+    "period": 1681226290000,
+    "summaries": {
+      "http.response_time": {
+        "min": 23,
+        "max": 653,
+        "count": 39060,
+        "p50": 56.3,
+        "median": 56.3,
+        "p75": 63.4,
+        "p90": 71.5,
+        "p95": 73,
+        "p99": 82.3,
+        "p999": 190.6
+      }
+    },
+    "histograms": {
+      "http.response_time": {
+        "min": 23,
+        "max": 653,
+        "count": 39060,
+        "p50": 56.3,
+        "median": 56.3,
+        "p75": 63.4,
+        "p90": 71.5,
+        "p95": 73,
+        "p99": 82.3,
+        "p999": 190.6
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 3,
+        "vusers.created": 3,
+        "http.requests": 3,
+        "http.codes.404": 3,
+        "http.responses": 3,
+        "errors.Failed capture or match": 3,
+        "vusers.failed": 3
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "firstCounterAt": 1681225937531,
+      "firstHistogramAt": 1681225937999,
+      "lastCounterAt": 1681225939733,
+      "lastHistogramAt": 1681225939732,
+      "firstMetricAt": 1681225937531,
+      "lastMetricAt": 1681225939733,
+      "period": "1681225930000",
+      "http.request_rate": null,
+      "summaries": {
+        "http.response_time": {
+          "min": 52,
+          "max": 217,
+          "count": 3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 56.3,
+          "p90": 56.3,
+          "p95": 56.3,
+          "p99": 56.3,
+          "p999": 56.3
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 52,
+          "max": 217,
+          "count": 3,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 56.3,
+          "p90": 56.3,
+          "p95": 56.3,
+          "p99": 56.3,
+          "p999": 56.3
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 10,
+        "vusers.created": 10,
+        "http.requests": 10,
+        "http.codes.404": 10,
+        "http.responses": 10,
+        "errors.Failed capture or match": 10,
+        "vusers.failed": 10
+      },
+      "rates": {
+        "http.request_rate": 1
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681225940541,
+      "firstHistogramAt": 1681225940719,
+      "lastCounterAt": 1681225949690,
+      "lastHistogramAt": 1681225949689,
+      "firstMetricAt": 1681225940541,
+      "lastMetricAt": 1681225949690,
+      "period": "1681225940000",
+      "summaries": {
+        "http.response_time": {
+          "min": 44,
+          "max": 165,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 53,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 58.6,
+          "p999": 58.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 44,
+          "max": 165,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 53,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 58.6,
+          "p999": 58.6
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 10,
+        "vusers.created": 10,
+        "http.requests": 10,
+        "http.codes.404": 10,
+        "http.responses": 10,
+        "errors.Failed capture or match": 10,
+        "vusers.failed": 10
+      },
+      "rates": {
+        "http.request_rate": 1
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681225950530,
+      "firstHistogramAt": 1681225950700,
+      "lastCounterAt": 1681225959697,
+      "lastHistogramAt": 1681225959696,
+      "firstMetricAt": 1681225950530,
+      "lastMetricAt": 1681225959697,
+      "period": "1681225950000",
+      "summaries": {
+        "http.response_time": {
+          "min": 50,
+          "max": 57,
+          "count": 10,
+          "p50": 53,
+          "median": 53,
+          "p75": 54.1,
+          "p90": 56.3,
+          "p95": 56.3,
+          "p99": 56.3,
+          "p999": 56.3
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 50,
+          "max": 57,
+          "count": 10,
+          "p50": 53,
+          "median": 53,
+          "p75": 54.1,
+          "p90": 56.3,
+          "p95": 56.3,
+          "p99": 56.3,
+          "p999": 56.3
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 10,
+        "vusers.created": 10,
+        "http.requests": 10,
+        "http.codes.404": 10,
+        "http.responses": 10,
+        "errors.Failed capture or match": 10,
+        "vusers.failed": 10
+      },
+      "rates": {
+        "http.request_rate": 1
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681225960530,
+      "firstHistogramAt": 1681225960697,
+      "lastCounterAt": 1681225969703,
+      "lastHistogramAt": 1681225969703,
+      "firstMetricAt": 1681225960530,
+      "lastMetricAt": 1681225969703,
+      "period": "1681225960000",
+      "summaries": {
+        "http.response_time": {
+          "min": 50,
+          "max": 54,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 53,
+          "p90": 53,
+          "p95": 53,
+          "p99": 53,
+          "p999": 53
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 50,
+          "max": 54,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 53,
+          "p90": 53,
+          "p95": 53,
+          "p99": 53,
+          "p999": 53
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 10,
+        "vusers.created": 10,
+        "http.requests": 10,
+        "http.codes.404": 10,
+        "http.responses": 10,
+        "errors.Failed capture or match": 10,
+        "vusers.failed": 10
+      },
+      "rates": {
+        "http.request_rate": 1
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681225970530,
+      "firstHistogramAt": 1681225970710,
+      "lastCounterAt": 1681225979702,
+      "lastHistogramAt": 1681225979701,
+      "firstMetricAt": 1681225970530,
+      "lastMetricAt": 1681225979702,
+      "period": "1681225970000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 57,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 51.9,
+          "p90": 55.2,
+          "p95": 55.2,
+          "p99": 55.2,
+          "p999": 55.2
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 57,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 51.9,
+          "p90": 55.2,
+          "p95": 55.2,
+          "p99": 55.2,
+          "p999": 55.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 10,
+        "vusers.created": 10,
+        "http.requests": 10,
+        "http.codes.404": 10,
+        "http.responses": 10,
+        "errors.Failed capture or match": 10,
+        "vusers.failed": 10
+      },
+      "rates": {
+        "http.request_rate": 1
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681225980529,
+      "firstHistogramAt": 1681225980701,
+      "lastCounterAt": 1681225989701,
+      "lastHistogramAt": 1681225989701,
+      "firstMetricAt": 1681225980529,
+      "lastMetricAt": 1681225989701,
+      "period": "1681225980000",
+      "summaries": {
+        "http.response_time": {
+          "min": 50,
+          "max": 54,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 51.9,
+          "p90": 53,
+          "p95": 53,
+          "p99": 53,
+          "p999": 53
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 50,
+          "max": 54,
+          "count": 10,
+          "p50": 51.9,
+          "median": 51.9,
+          "p75": 51.9,
+          "p90": 53,
+          "p95": 53,
+          "p99": 53,
+          "p999": 53
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 160,
+        "vusers.created": 160,
+        "http.requests": 160,
+        "http.codes.404": 151,
+        "http.responses": 151,
+        "errors.Failed capture or match": 151,
+        "vusers.failed": 151
+      },
+      "rates": {
+        "http.request_rate": 50
+      },
+      "firstCounterAt": 1681225990529,
+      "firstHistogramAt": 1681225990691,
+      "lastCounterAt": 1681225999998,
+      "lastHistogramAt": 1681225999998,
+      "firstMetricAt": 1681225990529,
+      "lastMetricAt": 1681225999998,
+      "period": "1681225990000",
+      "http.request_rate": null,
+      "summaries": {
+        "http.response_time": {
+          "min": 48,
+          "max": 65,
+          "count": 151,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 56.3,
+          "p90": 57.4,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 62.2
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 48,
+          "max": 65,
+          "count": 151,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 56.3,
+          "p90": 57.4,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 62.2
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 564,
+        "vusers.created": 564,
+        "http.requests": 564,
+        "http.codes.404": 562,
+        "http.responses": 562,
+        "errors.Failed capture or match": 562,
+        "vusers.failed": 562
+      },
+      "rates": {
+        "http.request_rate": 57
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226000007,
+      "firstHistogramAt": 1681226000007,
+      "lastCounterAt": 1681226009997,
+      "lastHistogramAt": 1681226009991,
+      "firstMetricAt": 1681226000007,
+      "lastMetricAt": 1681226009997,
+      "period": "1681226000000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 65,
+          "count": 562,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 56.3,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 61
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 65,
+          "count": 562,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 56.3,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 61
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 646,
+        "http.responses": 646,
+        "errors.Failed capture or match": 646,
+        "vusers.failed": 646,
+        "vusers.created_by_name.Get LEGO Sets": 649,
+        "vusers.created": 649,
+        "http.requests": 649
+      },
+      "rates": {
+        "http.request_rate": 66
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226010010,
+      "firstHistogramAt": 1681226010010,
+      "lastCounterAt": 1681226019998,
+      "lastHistogramAt": 1681226019966,
+      "firstMetricAt": 1681226010010,
+      "lastMetricAt": 1681226019998,
+      "period": "1681226010000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 81,
+          "count": 646,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 67.4,
+          "p999": 74.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 81,
+          "count": 646,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 67.4,
+          "p999": 74.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 730,
+        "http.responses": 730,
+        "errors.Failed capture or match": 730,
+        "vusers.failed": 730,
+        "vusers.created_by_name.Get LEGO Sets": 730,
+        "vusers.created": 730,
+        "http.requests": 730
+      },
+      "rates": {
+        "http.request_rate": 74
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226020006,
+      "firstHistogramAt": 1681226020006,
+      "lastCounterAt": 1681226029995,
+      "lastHistogramAt": 1681226029973,
+      "firstMetricAt": 1681226020006,
+      "lastMetricAt": 1681226029995,
+      "period": "1681226020000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 68,
+          "count": 730,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 66
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 68,
+          "count": 730,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 66
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 815,
+        "vusers.created": 815,
+        "http.requests": 815,
+        "http.codes.404": 815,
+        "http.responses": 815,
+        "errors.Failed capture or match": 815,
+        "vusers.failed": 815
+      },
+      "rates": {
+        "http.request_rate": 83
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226030000,
+      "firstHistogramAt": 1681226030017,
+      "lastCounterAt": 1681226039990,
+      "lastHistogramAt": 1681226039989,
+      "firstMetricAt": 1681226030000,
+      "lastMetricAt": 1681226039990,
+      "period": "1681226030000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 103,
+          "count": 815,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 70.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 103,
+          "count": 815,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 70.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 901,
+        "vusers.created": 901,
+        "http.requests": 901,
+        "http.codes.404": 899,
+        "http.responses": 899,
+        "errors.Failed capture or match": 899,
+        "vusers.failed": 899
+      },
+      "rates": {
+        "http.request_rate": 91
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226040001,
+      "firstHistogramAt": 1681226040006,
+      "lastCounterAt": 1681226049988,
+      "lastHistogramAt": 1681226049987,
+      "firstMetricAt": 1681226040001,
+      "lastMetricAt": 1681226049988,
+      "period": "1681226040000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 67,
+          "count": 899,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 62.2,
+          "p999": 64.7
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 67,
+          "count": 899,
+          "p50": 54.1,
+          "median": 54.1,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 62.2,
+          "p999": 64.7
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 984,
+        "vusers.created": 984,
+        "http.requests": 984,
+        "http.codes.404": 979,
+        "http.responses": 979,
+        "errors.Failed capture or match": 979,
+        "vusers.failed": 979
+      },
+      "rates": {
+        "http.request_rate": 100
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226050009,
+      "firstHistogramAt": 1681226050016,
+      "lastCounterAt": 1681226059990,
+      "lastHistogramAt": 1681226059990,
+      "firstMetricAt": 1681226050009,
+      "lastMetricAt": 1681226059990,
+      "period": "1681226050000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 84,
+          "count": 979,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 71.5
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 84,
+          "count": 979,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 61,
+          "p999": 71.5
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1070,
+        "http.responses": 1070,
+        "errors.Failed capture or match": 1070,
+        "vusers.failed": 1070,
+        "vusers.created_by_name.Get LEGO Sets": 1069,
+        "vusers.created": 1069,
+        "http.requests": 1069
+      },
+      "rates": {
+        "http.request_rate": 108
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226060010,
+      "firstHistogramAt": 1681226060010,
+      "lastCounterAt": 1681226069999,
+      "lastHistogramAt": 1681226069991,
+      "firstMetricAt": 1681226060010,
+      "lastMetricAt": 1681226069999,
+      "period": "1681226060000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 64,
+          "count": 1070,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 63.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 64,
+          "count": 1070,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 58.6,
+          "p99": 59.7,
+          "p999": 63.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1149,
+        "vusers.created": 1149,
+        "http.requests": 1149,
+        "http.codes.404": 1148,
+        "http.responses": 1148,
+        "errors.Failed capture or match": 1148,
+        "vusers.failed": 1148
+      },
+      "rates": {
+        "http.request_rate": 116
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226070001,
+      "firstHistogramAt": 1681226070001,
+      "lastCounterAt": 1681226079998,
+      "lastHistogramAt": 1681226079998,
+      "firstMetricAt": 1681226070001,
+      "lastMetricAt": 1681226079998,
+      "period": "1681226070000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 87,
+          "count": 1148,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 62.2,
+          "p99": 67.4,
+          "p999": 71.5
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 87,
+          "count": 1148,
+          "p50": 55.2,
+          "median": 55.2,
+          "p75": 57.4,
+          "p90": 58.6,
+          "p95": 62.2,
+          "p99": 67.4,
+          "p999": 71.5
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1236,
+        "vusers.created": 1236,
+        "http.requests": 1236,
+        "http.codes.404": 1236,
+        "http.responses": 1236,
+        "errors.Failed capture or match": 1236,
+        "vusers.failed": 1236
+      },
+      "rates": {
+        "http.request_rate": 125
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226080000,
+      "firstHistogramAt": 1681226080020,
+      "lastCounterAt": 1681226089996,
+      "lastHistogramAt": 1681226089996,
+      "firstMetricAt": 1681226080000,
+      "lastMetricAt": 1681226089996,
+      "period": "1681226080000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 386,
+          "count": 1236,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 63.4,
+          "p90": 68.7,
+          "p95": 71.5,
+          "p99": 74.4,
+          "p999": 77.5
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 386,
+          "count": 1236,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 63.4,
+          "p90": 68.7,
+          "p95": 71.5,
+          "p99": 74.4,
+          "p999": 77.5
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1320,
+        "vusers.created": 1320,
+        "http.requests": 1320,
+        "http.codes.404": 1316,
+        "http.responses": 1316,
+        "errors.Failed capture or match": 1316,
+        "vusers.failed": 1316
+      },
+      "rates": {
+        "http.request_rate": 132
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226090003,
+      "firstHistogramAt": 1681226090019,
+      "lastCounterAt": 1681226099996,
+      "lastHistogramAt": 1681226099983,
+      "firstMetricAt": 1681226090003,
+      "lastMetricAt": 1681226099996,
+      "period": "1681226090000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 95,
+          "count": 1316,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 59.7,
+          "p90": 68.7,
+          "p95": 71.5,
+          "p99": 74.4,
+          "p999": 85.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 95,
+          "count": 1316,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 59.7,
+          "p90": 68.7,
+          "p95": 71.5,
+          "p99": 74.4,
+          "p999": 85.6
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1404,
+        "http.responses": 1404,
+        "errors.Failed capture or match": 1404,
+        "vusers.failed": 1404,
+        "vusers.created_by_name.Get LEGO Sets": 1403,
+        "vusers.created": 1403,
+        "http.requests": 1403
+      },
+      "rates": {
+        "http.request_rate": 142
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226100001,
+      "firstHistogramAt": 1681226100018,
+      "lastCounterAt": 1681226109993,
+      "lastHistogramAt": 1681226109989,
+      "firstMetricAt": 1681226100001,
+      "lastMetricAt": 1681226109993,
+      "period": "1681226100000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 144,
+          "count": 1404,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 64.7,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 74.4,
+          "p999": 89.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 144,
+          "count": 1404,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 64.7,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 74.4,
+          "p999": 89.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1482,
+        "http.responses": 1482,
+        "errors.Failed capture or match": 1482,
+        "vusers.failed": 1482,
+        "vusers.created_by_name.Get LEGO Sets": 1481,
+        "vusers.created": 1481,
+        "http.requests": 1481
+      },
+      "rates": {
+        "http.request_rate": 149
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226110000,
+      "firstHistogramAt": 1681226110000,
+      "lastCounterAt": 1681226119995,
+      "lastHistogramAt": 1681226119995,
+      "firstMetricAt": 1681226110000,
+      "lastMetricAt": 1681226119995,
+      "period": "1681226110000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 90,
+          "count": 1482,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 82.3,
+          "p999": 87.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 90,
+          "count": 1482,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 63.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 82.3,
+          "p999": 87.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1493,
+        "http.responses": 1493,
+        "errors.Failed capture or match": 1493,
+        "vusers.failed": 1493,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226120003,
+      "firstHistogramAt": 1681226120034,
+      "lastCounterAt": 1681226129976,
+      "lastHistogramAt": 1681226129976,
+      "firstMetricAt": 1681226120003,
+      "lastMetricAt": 1681226129976,
+      "period": "1681226120000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 93,
+          "count": 1493,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 80.6,
+          "p999": 92.8
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 93,
+          "count": 1493,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 80.6,
+          "p999": 92.8
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1507,
+        "http.responses": 1507,
+        "errors.Failed capture or match": 1505,
+        "vusers.failed": 1505,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226130002,
+      "firstHistogramAt": 1681226130018,
+      "lastCounterAt": 1681226139999,
+      "lastHistogramAt": 1681226139999,
+      "firstMetricAt": 1681226130002,
+      "lastMetricAt": 1681226139999,
+      "period": "1681226130000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 88,
+          "count": 1507,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 73,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 87.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 88,
+          "count": 1507,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 73,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 87.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500,
+        "http.codes.404": 1498,
+        "http.responses": 1498,
+        "errors.Failed capture or match": 1500,
+        "vusers.failed": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226140000,
+      "firstHistogramAt": 1681226140068,
+      "lastCounterAt": 1681226149993,
+      "lastHistogramAt": 1681226149993,
+      "firstMetricAt": 1681226140000,
+      "lastMetricAt": 1681226149993,
+      "period": "1681226140000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 84,
+          "count": 1498,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 82.3
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 84,
+          "count": 1498,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 82.3
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1499,
+        "http.responses": 1499,
+        "errors.Failed capture or match": 1499,
+        "vusers.failed": 1499,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226150002,
+      "firstHistogramAt": 1681226150018,
+      "lastCounterAt": 1681226159995,
+      "lastHistogramAt": 1681226159994,
+      "firstMetricAt": 1681226150002,
+      "lastMetricAt": 1681226159995,
+      "period": "1681226150000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 90,
+          "count": 1499,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 87.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 90,
+          "count": 1499,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 87.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1502,
+        "http.responses": 1502,
+        "errors.Failed capture or match": 1502,
+        "vusers.failed": 1502,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226160002,
+      "firstHistogramAt": 1681226160018,
+      "lastCounterAt": 1681226169998,
+      "lastHistogramAt": 1681226169997,
+      "firstMetricAt": 1681226160002,
+      "lastMetricAt": 1681226169998,
+      "period": "1681226160000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 102,
+          "count": 1502,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 89.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 102,
+          "count": 1502,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 89.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1462,
+        "http.responses": 1462,
+        "errors.Failed capture or match": 1462,
+        "vusers.failed": 1462,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226170002,
+      "firstHistogramAt": 1681226170018,
+      "lastCounterAt": 1681226179981,
+      "lastHistogramAt": 1681226179980,
+      "firstMetricAt": 1681226170002,
+      "lastMetricAt": 1681226179981,
+      "period": "1681226170000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 406,
+          "count": 1462,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 135.7,
+          "p999": 391.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 406,
+          "count": 1462,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 135.7,
+          "p999": 391.6
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500,
+        "http.codes.404": 1536,
+        "http.responses": 1536,
+        "errors.Failed capture or match": 1536,
+        "vusers.failed": 1536
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226180002,
+      "firstHistogramAt": 1681226180023,
+      "lastCounterAt": 1681226189992,
+      "lastHistogramAt": 1681226189992,
+      "firstMetricAt": 1681226180002,
+      "lastMetricAt": 1681226189992,
+      "period": "1681226180000",
+      "summaries": {
+        "http.response_time": {
+          "min": 36,
+          "max": 653,
+          "count": 1536,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 83.9,
+          "p999": 478.3
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 36,
+          "max": 653,
+          "count": 1536,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 83.9,
+          "p999": 478.3
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1501,
+        "http.responses": 1501,
+        "errors.Failed capture or match": 1501,
+        "vusers.failed": 1501,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226190002,
+      "firstHistogramAt": 1681226190018,
+      "lastCounterAt": 1681226199993,
+      "lastHistogramAt": 1681226199993,
+      "firstMetricAt": 1681226190002,
+      "lastMetricAt": 1681226199993,
+      "period": "1681226190000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 106,
+          "count": 1501,
+          "p50": 58.6,
+          "median": 58.6,
+          "p75": 68.7,
+          "p90": 74.4,
+          "p95": 82.3,
+          "p99": 89.1,
+          "p999": 96.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 106,
+          "count": 1501,
+          "p50": 58.6,
+          "median": 58.6,
+          "p75": 68.7,
+          "p90": 74.4,
+          "p95": 82.3,
+          "p99": 89.1,
+          "p999": 96.6
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1501,
+        "http.responses": 1501,
+        "errors.Failed capture or match": 1501,
+        "vusers.failed": 1501,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226200002,
+      "firstHistogramAt": 1681226200017,
+      "lastCounterAt": 1681226209995,
+      "lastHistogramAt": 1681226209995,
+      "firstMetricAt": 1681226200002,
+      "lastMetricAt": 1681226209995,
+      "period": "1681226200000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 124,
+          "count": 1501,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 62.2,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 89.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 124,
+          "count": 1501,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 62.2,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 89.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1494,
+        "http.responses": 1494,
+        "errors.Failed capture or match": 1494,
+        "vusers.failed": 1494,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226210002,
+      "firstHistogramAt": 1681226210017,
+      "lastCounterAt": 1681226219968,
+      "lastHistogramAt": 1681226219948,
+      "firstMetricAt": 1681226210002,
+      "lastMetricAt": 1681226219968,
+      "period": "1681226210000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 82,
+          "count": 1494,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 82.3
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 82,
+          "count": 1494,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 82.3
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1504,
+        "http.responses": 1504,
+        "errors.Failed capture or match": 1504,
+        "vusers.failed": 1504,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226220002,
+      "firstHistogramAt": 1681226220025,
+      "lastCounterAt": 1681226229994,
+      "lastHistogramAt": 1681226229994,
+      "firstMetricAt": 1681226220002,
+      "lastMetricAt": 1681226229994,
+      "period": "1681226220000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 89,
+          "count": 1504,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 87.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 89,
+          "count": 1504,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 77.5,
+          "p999": 87.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1500,
+        "http.responses": 1500,
+        "errors.Failed capture or match": 1500,
+        "vusers.failed": 1500,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226230000,
+      "firstHistogramAt": 1681226230000,
+      "lastCounterAt": 1681226239989,
+      "lastHistogramAt": 1681226239989,
+      "firstMetricAt": 1681226230000,
+      "lastMetricAt": 1681226239989,
+      "period": "1681226230000",
+      "summaries": {
+        "http.response_time": {
+          "min": 45,
+          "max": 207,
+          "count": 1500,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 98.5
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 45,
+          "max": 207,
+          "count": 1500,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 66,
+          "p90": 71.5,
+          "p95": 73,
+          "p99": 76,
+          "p999": 98.5
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1498,
+        "http.responses": 1498,
+        "errors.Failed capture or match": 1498,
+        "vusers.failed": 1498,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226240000,
+      "firstHistogramAt": 1681226240000,
+      "lastCounterAt": 1681226249996,
+      "lastHistogramAt": 1681226249996,
+      "firstMetricAt": 1681226240000,
+      "lastMetricAt": 1681226249996,
+      "period": "1681226240000",
+      "summaries": {
+        "http.response_time": {
+          "min": 23,
+          "max": 237,
+          "count": 1498,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 68.7,
+          "p90": 74.4,
+          "p95": 98.5,
+          "p99": 202.4,
+          "p999": 232.8
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 23,
+          "max": 237,
+          "count": 1498,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 68.7,
+          "p90": 74.4,
+          "p95": 98.5,
+          "p99": 202.4,
+          "p999": 232.8
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1498,
+        "http.responses": 1498,
+        "errors.Failed capture or match": 1498,
+        "vusers.failed": 1498,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226250001,
+      "firstHistogramAt": 1681226250017,
+      "lastCounterAt": 1681226259968,
+      "lastHistogramAt": 1681226259968,
+      "firstMetricAt": 1681226250001,
+      "lastMetricAt": 1681226259968,
+      "period": "1681226250000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 125,
+          "count": 1498,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 76,
+          "p999": 92.8
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 125,
+          "count": 1498,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 76,
+          "p999": 92.8
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500,
+        "http.codes.404": 1504,
+        "http.responses": 1504,
+        "errors.Failed capture or match": 1504,
+        "vusers.failed": 1504
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226260001,
+      "firstHistogramAt": 1681226260017,
+      "lastCounterAt": 1681226269989,
+      "lastHistogramAt": 1681226269988,
+      "firstMetricAt": 1681226260001,
+      "lastMetricAt": 1681226269989,
+      "period": "1681226260000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 90,
+          "count": 1504,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 79.1,
+          "p999": 87.4
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 90,
+          "count": 1504,
+          "p50": 56.3,
+          "median": 56.3,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 79.1,
+          "p999": 87.4
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1503,
+        "http.responses": 1503,
+        "errors.Failed capture or match": 1503,
+        "vusers.failed": 1503,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226270001,
+      "firstHistogramAt": 1681226270017,
+      "lastCounterAt": 1681226279999,
+      "lastHistogramAt": 1681226279999,
+      "firstMetricAt": 1681226270001,
+      "lastMetricAt": 1681226279999,
+      "period": "1681226270000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 87,
+          "count": 1503,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 85.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 87,
+          "count": 1503,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 67.4,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 85.6
+        }
+      }
+    },
+    {
+      "counters": {
+        "http.codes.404": 1497,
+        "http.responses": 1497,
+        "errors.Failed capture or match": 1497,
+        "vusers.failed": 1497,
+        "vusers.created_by_name.Get LEGO Sets": 1500,
+        "vusers.created": 1500,
+        "http.requests": 1500
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226280001,
+      "firstHistogramAt": 1681226280032,
+      "lastCounterAt": 1681226289982,
+      "lastHistogramAt": 1681226289982,
+      "firstMetricAt": 1681226280001,
+      "lastMetricAt": 1681226289982,
+      "period": "1681226280000",
+      "summaries": {
+        "http.response_time": {
+          "min": 46,
+          "max": 99,
+          "count": 1497,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 68.7,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 89.1
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 46,
+          "max": 99,
+          "count": 1497,
+          "p50": 57.4,
+          "median": 57.4,
+          "p75": 68.7,
+          "p90": 71.5,
+          "p95": 74.4,
+          "p99": 80.6,
+          "p999": 89.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Get LEGO Sets": 1046,
+        "vusers.created": 1046,
+        "http.requests": 1046,
+        "http.codes.404": 1072,
+        "http.responses": 1072,
+        "errors.Failed capture or match": 1072,
+        "vusers.failed": 1072
+      },
+      "rates": {
+        "http.request_rate": 150
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1681226290001,
+      "firstHistogramAt": 1681226290016,
+      "lastCounterAt": 1681226297437,
+      "lastHistogramAt": 1681226297436,
+      "firstMetricAt": 1681226290001,
+      "lastMetricAt": 1681226297437,
+      "period": "1681226290000",
+      "summaries": {
+        "http.response_time": {
+          "min": 47,
+          "max": 116,
+          "count": 1072,
+          "p50": 59.7,
+          "median": 59.7,
+          "p75": 70.1,
+          "p90": 74.4,
+          "p95": 82.3,
+          "p99": 92.8,
+          "p999": 115.6
+        }
+      },
+      "histograms": {
+        "http.response_time": {
+          "min": 47,
+          "max": 116,
+          "count": 1072,
+          "p50": 59.7,
+          "median": 59.7,
+          "p75": 70.1,
+          "p90": 74.4,
+          "p95": 82.3,
+          "p99": 92.8,
+          "p999": 115.6
+        }
+      }
+    }
+  ]
+}
