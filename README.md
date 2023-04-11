@@ -3,5 +3,5 @@ Test Automation for Searching the Sets on LEGO.com and add them to the Shopping 
 Using Playwright tool to perform the actions on the Application and verify the Bag.
 
 # Tests
-Tests are stored in the Test directory
+Tests are stored in the Tests directory
 
