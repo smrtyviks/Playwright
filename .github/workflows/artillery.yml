@@ -2,11 +2,13 @@ name: Artillery Socket.IO Load Test
 
 on:
   push:
-    branches:
-      - main
-      paths:
-      - **.js
-
+    branches: [ main, master ]
+    paths:
+    - artillery
+  pull_request:
+    branches: [ main, master ]
+    paths:
+    - artillery
 jobs:
   artillery:
     runs-on: ubuntu-latest
