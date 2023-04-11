@@ -1,14 +1,13 @@
 name: Artillery Socket.IO Load Test
 
 on:
+on:
   push:
-    branches: [ main, master ]
-    paths:
-    - artillery
-  pull_request:
-    branches: [ main, master ]
-    paths:
-    - artillery
+    branches:
+      - main
+  schedule:
+    - cron: '58 21 * * *'
+    
 jobs:
   artillery:
     runs-on: ubuntu-latest
