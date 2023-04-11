@@ -1,7 +1,6 @@
 name: Artillery Socket.IO Load Test
 
 on:
-on:
   push:
     branches:
       - main
